@@ -1,4 +1,4 @@
-# Olá, eu sou a Beka Prado!
+# Olá, eu sou a Rebeka Prado!
 
 
 <div align="center">
