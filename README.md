@@ -18,6 +18,16 @@
 </div>
   
   ##
+ 
+<div align="center">
+   <p>🌐 𝗖𝗼𝗻𝗲𝗰𝘁𝗲-𝘀𝗲 𝗰𝗼𝗺𝗶𝗴𝗼</p>
+  <a href="https://www.linkedin.com/in/rebekamarcelino" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+
+  ##
 
 <div align="center">
   <a href="https://github.com/BekaPrado">
@@ -30,3 +40,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BekaPrado&theme=transparent" />
   </a>
 </div>
+
+
